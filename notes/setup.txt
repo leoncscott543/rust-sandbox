@@ -1,0 +1,13 @@
+This is a deep dive into Rust: Lets begin!
+
+BootCamp Setup:
+
+1. First, before anything, install Rust from  www.rust-lang.org/tools/install. 
+    - This can be done in a devcontainer.json as well as we did here'
+    - Make sure (GCC) GNU compiler is also installed -> sudo apt install gcc
+2. cargo install Rustlings
+    - downloads and compiles Rustlings
+3. Run -> rustlings init
+    - initializes the rustlings/ directory
+4. Go into rustlings/ and launch rustlings for further instructions
+5. Use VSCode and download rust analyzer extension
