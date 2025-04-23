@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-{
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {"ghcr.io/devcontainers/features/rust:1.3.2": {}
-  }
-}
-=======
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {        "ghcr.io/devcontainers/features/rust:1.3.2": {}
   }
 }
->>>>>>> 6c0cb82b7aa02562ccbedaae70c60877a00c1a3c
